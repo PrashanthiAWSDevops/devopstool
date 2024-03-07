@@ -12,3 +12,7 @@ metadata:
    "key2" : "value2"
  }
 }
+"selector":
+ {
+    "key" : "value"
+ }
