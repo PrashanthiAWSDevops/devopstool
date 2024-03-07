@@ -4,3 +4,11 @@ metadata:
   name: test-ns
   labels:
     team: testingteam
+"metadata": 
+{
+ "labels": 
+ {
+   "key1" : "value1",
+   "key2" : "value2"
+ }
+}
