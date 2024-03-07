@@ -15,4 +15,6 @@ metadata:
 "selector":
  {
     "key" : "value"
+    "Port" : "8080"
  }
+
